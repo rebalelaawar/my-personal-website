@@ -1,4 +1,27 @@
-body {
-    background: rgb(138, 160, 162);
-  }
-  
+#playerImage {
+width: 250px;
+height: 250px;
+position: absolute;
+left: 43%;
+border: 5px dashed white
+}
+
+h1 {
+  text-align: center;
+  font-family: cursive;
+  color: white;
+}
+
+body{
+  background-color: black;
+
+}
+
+#playerName {
+  color: white;
+  position: absolute;
+  left: 46%;
+  top: 50%;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 22px;
+}
